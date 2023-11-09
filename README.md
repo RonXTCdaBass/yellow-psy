@@ -3,7 +3,7 @@
 
 my first upload for the "datenstrom-yellow" cms
 
-<p align="center"><img src="psy-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="psy/psy-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## How to install an extension
 
