@@ -1,6 +1,10 @@
 # yellow-psy
 "Psy" is a dark theme for "datenstrom-yellow" by RonXTCdaBass.
 
+all themes for "Yellow" i´ve seen, are toooo bright for me.
+so i made my darker design wich is better for me night-owl ;)
+
+
 my first upload for the "datenstrom-yellow" cms
 [visit](https://github.com/datenstrom/yellow) for more info´s and to download your Yellow. 
 
