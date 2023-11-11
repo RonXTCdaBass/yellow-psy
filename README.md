@@ -10,7 +10,7 @@ nothing special, just a few colors that are easier on my :eyes: eyes at night ;)
 my first upload for the "datenstrom-yellow" cms
 [visit](https://github.com/datenstrom/yellow) for more info´s and to download your Yellow. 
 
-the theme need the [breadcrum](https://github.com/annaesvensson/yellow-breadcrumb) extension.
+the theme need the [breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb) extension.
 
 <p align="center"><img src="psy/psy-screenshot.png?raw=true" alt="Screenshot"></p>
 
