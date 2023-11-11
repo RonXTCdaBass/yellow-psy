@@ -88,7 +88,7 @@ a {
 }
 a:hover {
     color: var(--hover);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /* Content */
@@ -111,7 +111,7 @@ a:hover {
 .content form {
 	margin-left: 30em;
     margin: 1em 0;
-	border: 1px solid #544F43;
+	/* border: 1px solid #544F43; */
 	border-radius: 10px;
 	background-color: RGBA(10, 10, 10, 0.4);
 	box-shadow: 0 0 5px 0px #00FFFF;
@@ -303,13 +303,12 @@ div .minishare { text-align: center; }
 }
 .header .sitename h1 a {
     color: var(--text);
-    border-bottom: solid 3px var(--bg);
     text-decoration: none;
     padding: 0.5em 0;
 }
 .header .sitename h1 a:hover {
     color: var(--hover);
-    border-bottom: solid 3px var(--link-active);
+    border-bottom: solid 3px var(--link-active); 
 }
 .header .sitename p {
     margin-top: 0;
@@ -324,14 +323,12 @@ div .minishare { text-align: center; }
 }
 .navigation a {
     color: var(--text);
-    border-bottom: solid 3px var(--bg);
     text-decoration: none;
     padding: 0.5em 0;
     margin: 0 0.5em;
 }
 .navigation a:hover {
     color: var(--hover);
-    border-bottom: solid 1px var(--link-active);
 }
 .navigation ul {
     margin: 0 -0.5em;
